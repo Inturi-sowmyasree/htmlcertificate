@@ -3,7 +3,7 @@
     padding: 0;
 
 }
-body{
+div{
     background-image: url(./html.jpg);
     height: 90vh;
     background-size: cover;

@@ -6,7 +6,7 @@
 div{
     background-image: url(./html.jpg);
     height: 90vh;
-    background-size: cover;
+    background-size: contain;
    
     background-repeat: no-repeat;
 }
